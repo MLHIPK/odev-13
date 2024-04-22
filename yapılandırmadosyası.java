@@ -1,5 +1,5 @@
 # test.properties
-# Çal??ma günleri ve beklenen maa?lar
+# Çalisma günleri ve beklenen maaslar
 
 # Test durumu 1
 workingDays1=20
